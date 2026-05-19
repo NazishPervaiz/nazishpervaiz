@@ -109,8 +109,11 @@ analyst = {
 
 <div align="center">
 
-![Nazish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazishPervaiz&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazishPervaiz&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=NazishPervaiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Nazish's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazishPervaiz&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NazishPervaiz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
